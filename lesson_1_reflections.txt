@@ -8,20 +8,20 @@ was introduced?
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-	Through the overall process of change, I can see how each change was 
-	appropriate and how you solved the problem. This allows me to identify the 
+	Through the overall process of change, you can see how each change was 
+	appropriate and how you solved the problem. This allows you to identify the 
 	problem context when a problem occurs. It also makes it easy to return to 
-	the past when changes fail. As a result, I am relieved of the burden of 
+	the past when changes fail. As a result, you are relieved of the burden of 
 	failure and become a competent programmer.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    Choosing when to create a commit manually allows me to choose each commit to 
+    Choosing when to create a commit manually allows you to choose each commit to 
 	have one logical purpose, which makes it easier to understand. On the other 
-	hand, I can forget to commit and not commit for a long time. In this case,
-	 the commit size is too large to understand and inefficient.
+	hand, you can forget to commit and not commit for a long time. In this case,
+	the commit size is too large to understand and inefficient.
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
@@ -29,7 +29,7 @@ files in one commit, while others, like Google Docs, treat each file separately?
     In version control system like Git, multiple files are highly interrelated 
     and work together to function properly. Changes in one file can affect other 
     files. Handling multiple files with a single commit is more efficient 
-    because it allows me to view the differences between multiple files
+    because it allows you to view the differences between multiple files
     simultaneously. 
 
     On the other hand, on Google Docs, it is probably ok to treat each file 
@@ -37,18 +37,18 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Using git log allows me to get every commit that has ever been made, 
-    including IDs, author, date, messages. I can use git diff followed by two 
+    Using git log allows you to get every commit that has ever been made, 
+    including IDs, author, date, messages. You can use git diff followed by two 
     commit IDs to compare different versions of a file.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Even if I change something and break the project, I can use version 
-    control to go back to the state at the time of the previous commit. I can 
+    When you change something and break the project, you can use version 
+    control to go back to the state at the time of the previous commit. You can 
     also find errors quickly by comparing two versions of a file. 
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
 	I want to use Git for keeping track of changes to my project since Git helps
-	 me have easy access to all versions of a file. 
+	me have easy access to all versions of a file. 
