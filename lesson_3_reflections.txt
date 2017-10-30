@@ -4,3 +4,10 @@ local?
   remote repository. If you are working on another computer, you can use a remote 
   repository to push changes to it.
   
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+	
+	If keeping repositories in sync automatically, the code will change without my 
+	being aware of it. When you try new features, since new features require multiple 
+	commits and are more likely to have bugs, in this case, there is no need to have 
+	Git automatically stay up-to-date. 
