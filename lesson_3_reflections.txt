@@ -11,3 +11,17 @@ automatically stay up-to-date with your remote repository?
 	being aware of it. When you try new features, since new features require multiple 
 	commits and are more likely to have bugs, in this case, there is no need to have 
 	Git automatically stay up-to-date. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forking is making a copy of an existing GitHub repository directly within the
+	context of GitHub. GitHub keeps track of the number of people who have made
+	forks. Cloning is a copy of a repository and it works on any two repositories.
+	You can clone the someone else's repository on GitHub to your local computer. You
+	can also clone the repository within a local. Branches are labels for commits,
+	which happens on a single repository.
+
+	When you want to take an original code and work on the code separately, you can
+	use a fork. You can use clone when you copy entire repository to your local
+	machine. When you want to preserve the master branch and try experimental
+	feature, you can use branches.
