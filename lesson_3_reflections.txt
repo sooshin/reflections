@@ -33,3 +33,15 @@ locally?
 	the local copy of the remote branch without affecting the actual local version.
 	Then, you can have an access to any updates, while you are offline. You can also
 	merge the local copy of the remote branch into the local one.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+
+	Without using Git or GitHub, I would use email or Dropbox. I can email files back
+	and forth, but it is difficult to grasp real-time changes. If I use Dropbox, I
+	can collaborate with others using shared folders in Dropbox, which allows me to
+	see changes almost immediately.
+
+	When collaborations cause conflict, using Git or GitHub would be easier to deal
+	with the conflicts. I can create a merged version of changes and make a pull
+	request to get feedback on the changes.
