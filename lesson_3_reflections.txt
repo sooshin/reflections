@@ -45,3 +45,11 @@ would be harder?
 	When collaborations cause conflict, using Git or GitHub would be easier to deal
 	with the conflicts. I can create a merged version of changes and make a pull
 	request to get feedback on the changes.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+	I can make changes in a separate branch when I collaborate with others. It allows
+	me to show them my work and get feedback on my changes before I update the master
+	branch. If I work alone on a project, I want to work directly on my master branch
+	unless I try a new feature.
